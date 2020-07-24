@@ -1,6 +1,6 @@
 # Fentanyl-PCA-HC
 
-1.	Download the mass spectral data .csv files and the “Model Building and Evaluation” R script from Github (https://github.com/Nicolas-Gilbert/Fentanyl-PCA-HC)
+1.	Download the mass spectral data .csv files and the “Model Building and Evaluation” R script from this repository.
 2.	Copy the .csv files to your R Studio working directory.
 3.	Open the “Model Building and Evaluation” script in R Studio.
 4.	Install and load the factoextra, FactoMineR and fields packages.
